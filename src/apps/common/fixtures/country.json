@@ -1,0 +1,79 @@
+[
+  {
+    "model": "common.country",
+    "pk": 1,
+    "fields": {
+      "created": "2018-02-21T07:00:55.462Z",
+      "modified": "2018-02-21T07:00:55.463Z",
+      "code": null,
+      "name": "\u0420\u043e\u0441\u0441\u0438\u044f",
+      "logo": "countries/logo/d77d33fb-456b-4d2c-8e28-84d15cd50c67.png"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 2,
+    "fields": {
+      "created": "2018-02-21T07:02:19.197Z",
+      "modified": "2018-02-21T07:02:19.198Z",
+      "code": null,
+      "name": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430",
+      "logo": "countries/logo/d02ad5c8-5c8c-48bc-9370-122f93e5f707.png"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 3,
+    "fields": {
+      "created": "2018-02-21T07:02:47.319Z",
+      "modified": "2018-02-21T07:02:47.320Z",
+      "code": null,
+      "name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+      "logo": "countries/logo/0a291ef6-23c6-48a6-aa30-68713ed97ecc.png"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 4,
+    "fields": {
+      "created": "2018-02-21T07:03:35.205Z",
+      "modified": "2018-02-21T07:03:35.206Z",
+      "code": null,
+      "name": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+      "logo": "countries/logo/530565ed-d8e1-4e5c-ab57-37d2b8d946f7.jpg"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 5,
+    "fields": {
+      "created": "2018-02-21T07:04:55.889Z",
+      "modified": "2018-02-21T07:05:05.343Z",
+      "code": null,
+      "name": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+      "logo": "countries/logo/4a363ba0-b78f-478c-a4a6-f15f9f1807d0.png"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 6,
+    "fields": {
+      "created": "2018-02-21T07:05:18.911Z",
+      "modified": "2018-02-21T07:05:18.912Z",
+      "code": null,
+      "name": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+      "logo": "countries/logo/e53db6b9-c169-4dda-900c-9ace3326ec5d.png"
+    }
+  },
+  {
+    "model": "common.country",
+    "pk": 7,
+    "fields": {
+      "created": "2018-02-21T07:05:46.056Z",
+      "modified": "2018-02-21T07:05:46.057Z",
+      "code": null,
+      "name": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
+      "logo": "countries/logo/ee2d0833-d0cd-4c16-9f3f-f22a31505272.png"
+    }
+  }
+]

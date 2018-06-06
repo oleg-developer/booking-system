@@ -1,0 +1,232 @@
+[
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 1,
+    "fields": {
+      "created": "2018-02-21T06:38:11.572Z",
+      "modified": "2018-02-21T06:38:11.573Z",
+      "section": 1,
+      "label": "WIFI"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 2,
+    "fields": {
+      "created": "2018-02-21T06:39:21.596Z",
+      "modified": "2018-02-21T06:39:21.597Z",
+      "section": 1,
+      "label": "\u0425\u043e\u043b\u043e\u0434\u0438\u043b\u044c\u043d\u0438\u043a"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 3,
+    "fields": {
+      "created": "2018-02-21T06:39:38.319Z",
+      "modified": "2018-02-21T06:39:38.321Z",
+      "section": 1,
+      "label": "\u041a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0435\u0440"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 4,
+    "fields": {
+      "created": "2018-02-21T06:39:58.574Z",
+      "modified": "2018-02-21T06:39:58.575Z",
+      "section": 1,
+      "label": "\u0422\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 5,
+    "fields": {
+      "created": "2018-02-21T06:41:07.548Z",
+      "modified": "2018-02-21T06:41:07.551Z",
+      "section": 1,
+      "label": "\u041c\u0438\u043a\u0440\u043e\u0432\u043e\u043b\u043d\u043e\u0432\u0430\u044f \u043f\u0435\u0447\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 6,
+    "fields": {
+      "created": "2018-02-21T06:41:57.328Z",
+      "modified": "2018-02-21T06:41:57.330Z",
+      "section": 1,
+      "label": "\u041a\u0443\u0445\u043d\u044f/\u041c\u0438\u043d\u0438-\u043a\u0443\u0445\u043d\u044f"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 7,
+    "fields": {
+      "created": "2018-02-21T06:42:16.582Z",
+      "modified": "2018-02-21T06:42:16.584Z",
+      "section": 1,
+      "label": "\u041c\u0438\u043d\u0438\u0431\u0430\u0440"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 8,
+    "fields": {
+      "created": "2018-02-21T06:43:10.359Z",
+      "modified": "2018-02-21T06:43:10.360Z",
+      "section": 1,
+      "label": "\u0412\u0430\u043d\u043d\u0430 \u0438\u043b\u0438 \u0434\u0443\u0448"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 9,
+    "fields": {
+      "created": "2018-02-21T06:43:21.908Z",
+      "modified": "2018-02-21T06:43:21.910Z",
+      "section": 1,
+      "label": "\u0424\u0435\u043d"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 10,
+    "fields": {
+      "created": "2018-02-21T06:44:03.796Z",
+      "modified": "2018-02-21T06:44:03.799Z",
+      "section": 1,
+      "label": "\u0427\u0430\u0439\u043d\u0438\u043a \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 11,
+    "fields": {
+      "created": "2018-02-21T06:44:49.239Z",
+      "modified": "2018-02-21T06:44:49.241Z",
+      "section": 1,
+      "label": "\u0423\u0442\u044e\u0433/\u0433\u043b\u0430\u0434\u0438\u043b\u044c\u043d\u0430\u044f \u0434\u043e\u0441\u043a\u0430"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 12,
+    "fields": {
+      "created": "2018-02-21T06:45:12.365Z",
+      "modified": "2018-02-21T06:45:12.368Z",
+      "section": 1,
+      "label": "\u0421\u0442\u0438\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0448\u0438\u043d\u0430"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 13,
+    "fields": {
+      "created": "2018-02-21T06:45:54.937Z",
+      "modified": "2018-02-21T06:45:54.939Z",
+      "section": 1,
+      "label": "\u0412\u0435\u043d\u0442\u0438\u043b\u044f\u0442\u043e\u0440"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 14,
+    "fields": {
+      "created": "2018-02-21T06:48:17.660Z",
+      "modified": "2018-02-21T06:48:17.661Z",
+      "section": 1,
+      "label": "\u0421\u0442\u0435\u0440\u0435\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 15,
+    "fields": {
+      "created": "2018-02-21T06:49:40.904Z",
+      "modified": "2018-02-21T06:49:40.906Z",
+      "section": 1,
+      "label": "\u041e\u0434\u043d\u043e\u0441\u043f\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 16,
+    "fields": {
+      "created": "2018-02-21T06:49:56.012Z",
+      "modified": "2018-02-21T06:49:56.015Z",
+      "section": 1,
+      "label": "\u0414\u0432\u0443\u0441\u043f\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 17,
+    "fields": {
+      "created": "2018-02-21T06:50:31.608Z",
+      "modified": "2018-02-21T06:50:31.609Z",
+      "section": 1,
+      "label": "\u041f\u043e\u043b\u0443\u0442\u043e\u0440\u043d\u0430\u044f \u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 18,
+    "fields": {
+      "created": "2018-02-21T06:51:19.589Z",
+      "modified": "2018-02-21T06:51:19.590Z",
+      "section": 1,
+      "label": "\u0414\u0432\u0443\u0445\u044d\u0442\u0430\u0436\u043d\u0430\u044f \u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 19,
+    "fields": {
+      "created": "2018-02-21T06:52:00.363Z",
+      "modified": "2018-02-21T06:52:00.366Z",
+      "section": 1,
+      "label": "\u0414\u0438\u0432\u0430\u043d"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 20,
+    "fields": {
+      "created": "2018-02-21T06:52:17.789Z",
+      "modified": "2018-02-21T06:52:17.791Z",
+      "section": 1,
+      "label": "\u0414\u0438\u0432\u0430\u043d-\u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 21,
+    "fields": {
+      "created": "2018-02-21T06:52:30.309Z",
+      "modified": "2018-02-21T06:52:30.311Z",
+      "section": 1,
+      "label": "\u041a\u0440\u0435\u0441\u043b\u043e"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 22,
+    "fields": {
+      "created": "2018-02-21T06:52:50.006Z",
+      "modified": "2018-02-21T06:52:50.008Z",
+      "section": 1,
+      "label": "\u041a\u0440\u0435\u0441\u043b\u043e-\u043a\u0440\u043e\u0432\u0430\u0442\u044c"
+    }
+  },
+  {
+    "model": "hotels.equipmentitem",
+    "pk": 23,
+    "fields": {
+      "created": "2018-02-21T06:53:23.231Z",
+      "modified": "2018-02-21T06:53:23.234Z",
+      "section": 1,
+      "label": "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u043a\u0440\u043e\u0432\u0430\u0442\u043a\u0430"
+    }
+  }
+]
