@@ -1,4 +1,4 @@
-# HOTEL PRO PROJECT
+# BOOKING SYSTEM PROJECT
 
 Сontrol system 
 
